@@ -1,4 +1,4 @@
-# Mitm-proxy-directions-from-gpt4
+# Mitm attack platform in collabaration with chatgpt 3.5 and Bing Chat (GPT4) 
 
 (Pardon my English; this is not my native language.)
 
