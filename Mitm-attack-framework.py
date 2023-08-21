@@ -7,7 +7,7 @@ print("""
                                                        
 A Python script for performing a MITM attack on a subnet using ARP poisoning and mitmproxy
 
-Author: jxc22 in collaboration Bing chat
+Author: jxc22 in collaboration Bing chat (gpt4) and Chatgpt (3.5)
 Date: 15 aug 2023
 
 Usage: python mitm.py [-h] -t TARGET -g GATEWAY [-p PROXY]
